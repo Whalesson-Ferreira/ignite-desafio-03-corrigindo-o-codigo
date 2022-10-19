@@ -1,7 +1,8 @@
 
 # ignite-desafio-03-corrigindo-o-codigo
 
-Projeto desenvolvido durante a trilha de Node do Ignite da Rocketseat. O desenvolvimento se deu a partir de um [template](https://github.com/rocketseat-education/ignite-template-corrigindo-o-codigo), que já vem com os testes configurados. O objetivo deste desafio foi praticar ainda mais os conceitos de nodejs, através de uma aplicação em processo de desenvolvimento, ou seja, não concluída. Essa aplicação realiza o CRUD (Create, Read, Update, Delete) de repositórios de projetos, além de ser possível dar likes em repositórios cadastrados, através das seguintes rotas:
+Projeto desenvolvido durante a trilha de Node do Ignite da Rocketseat. O desenvolvimento se deu a partir de um [template](https://github.com/rocketseat-education/ignite-template-corrigindo-o-codigo), que já vem com os testes configurados. O objetivo deste desafio foi praticar ainda mais os conceitos de nodejs, através de uma aplicação em processo de desenvolvimento, ou seja, não concluída. 
+Essa aplicação realiza o CRUD (Create, Read, Update, Delete) de repositórios de projetos, além de ser possível dar likes em repositórios cadastrados, através das seguintes rotas:
 
 ## Rotas
 
